@@ -31,7 +31,6 @@ else
   it returns false
 */
 
-
 // You can run `node index.js` to view these console logs
 if (require.main === module) {
   console.log("Expecting: true");
